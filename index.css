@@ -150,6 +150,7 @@ overflow: hidden;
     background: #1C204B;
     padding: 28px 24px;
     row-gap: 7px;
+    cursor: pointer;
   }
 
   .bottom-section:hover {
